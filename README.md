@@ -1,5 +1,8 @@
 # WAF
 Web Application Firewall (Prototype) | Node.js, Express, React, MongoDB
+## 📂 Project Structure
+
+```text
 waf-prototype/
 ├─ backend/
 │  ├─ package.json
